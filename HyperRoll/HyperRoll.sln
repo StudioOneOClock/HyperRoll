@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperRoll", "HyperRoll\HyperRoll.csproj", "{1944D938-485F-4E12-BC4C-6A1637C2FF15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC5890CC-108D-4CAF-8628-991515D2CCC6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1944D938-485F-4E12-BC4C-6A1637C2FF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1944D938-485F-4E12-BC4C-6A1637C2FF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1944D938-485F-4E12-BC4C-6A1637C2FF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1944D938-485F-4E12-BC4C-6A1637C2FF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D322C422-578D-4B2F-AF0B-AD50FD2506FB}
+	EndGlobalSection
+EndGlobal
